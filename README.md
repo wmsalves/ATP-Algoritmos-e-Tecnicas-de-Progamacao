@@ -7,3 +7,5 @@ Neste repositório irá conter os Exercícios realizados durante a matéria de "
 [[Lista - Sequenciais](https://github.com/Veidoido/ATP-Algoritmos-e-Tecnicas-de-Progamacao/tree/main/ListaSequenciais)] Lista que contém exercícios de metodos Sequenciais em Programação Java
 
 [[Lista - If/Else](https://github.com/Veidoido/ATP-Algoritmos-e-Tecnicas-de-Progamacao/tree/main/ListaIfElse)] Lista que contém exercícios de metodos If/Else em Programação Java
+
+[[Lista - Switch/Condicionais](https://github.com/Veidoido/ATP-Algoritmos-e-Tecnicas-de-Progamacao/tree/main/ListaCondicionaisSwitch)] Lista que contém exercícios de metodos Condicionais/Switch em Programação Java
